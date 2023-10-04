@@ -45,8 +45,8 @@ Sélectionnez l'option **"Custom"**
 
 ![img](https://github.com/Hichiraku/Projet_VNC/blob/main/data/install5serve.png?raw=true)
 
-Dans un premier temps effectuez un clique **GAUCHE** sur l'icone de **"TightVNC Viewer"** 
-Ensuite selectionnez l'option **"Entire feature will be unavailable"**
+Dans un premier temps effectuez un clique **GAUCHE** sur l'icone de **"TightVNC Viewer"**  
+Ensuite selectionnez l'option **"Entire feature will be unavailable"**  
 Grâce à cela, nous évitons d'installer le **"Client"** de TighVNC qui nous est inutile sur la machine **Server** pour le projet.
 
 ![img](https://github.com/Hichiraku/Projet_VNC/blob/main/data/install6serve.png?raw=true)
@@ -59,7 +59,8 @@ Cliquez sur le bouton **"Installer"**
 
 ![img](https://github.com/Hichiraku/Projet_VNC/blob/main/data/install8serve.png?raw=true)
 
-Cette étape est optionnel mais je vous recommande fortement de saisir vos mots de passe pour protéger votre serveur TightVNC et empêcher tout client essayant de prendre le controle de votre Serveur sans en avoir le mot de passe !
+Cette étape est optionnel mais je vous recommande fortement de saisir vos mots de passe pour protéger votre serveur TightVNC  
+et empêcher tout client essayant de prendre le controle de votre Serveur sans en avoir le mot de passe !  
 (Si vous ratez cette étape, pas de panique vous pourrez les configurer plus tard)
 
 ![img](https://github.com/Hichiraku/Projet_VNC/blob/main/data/install9serve.png?raw=true)
@@ -84,9 +85,9 @@ Sélectionnez l'option **"Custom"**
 
 ![img](https://github.com/Hichiraku/Projet_VNC/blob/main/data/install5client.png?raw=true)
 
-Dans un premier temps effectuez un clique **GAUCHE** sur l'icone de **"TightVNC Server"** 
-Ensuite selectionnez l'option **"Entire feature will be unavailable"**
-Grâce à cela, nous évitons d'installer le "server" de TighVNC qui nous est inutile sur la machine **Client** pour le projet.
+Dans un premier temps effectuez un clique **GAUCHE** sur l'icone de **"TightVNC Server"**   
+Ensuite selectionnez l'option **"Entire feature will be unavailable"**  
+Grâce à cela, nous évitons d'installer le "server" de TighVNC qui nous est inutile sur la machine **Client** pour le projet.  
 
 ![img](https://github.com/Hichiraku/Projet_VNC/blob/main/data/install6client.png?raw=true)
 
