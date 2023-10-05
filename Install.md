@@ -2,7 +2,7 @@
 Il vous faudra : 
 
 >> Téléchargement :
->Rendez vous sur ce lien : https://www.tightvnc.com/download.php et cliquez sur **"Installer for Windows (64-bit)"**
+>Rendez-vous sur ce lien : https://www.tightvnc.com/download.php et cliquez sur **"Installer for Windows (64-bit)"**
 >![img](https://github.com/Hichiraku/Projet_VNC/blob/main/ressource/install1.png?raw=true)
 
 
@@ -12,7 +12,7 @@ Il vous faudra :
 > 2 CPU
 > 30GB d'espace de stockage
 
->> Sa carte réseau doit etre réglé sur "Internal Network".
+>> Sa carte réseau doit être réglée sur "Internal Network".
 >> Les Pare-feu doivent être désactivés.
 >> 
 >> ![img](https://github.com/Hichiraku/Projet_VNC/blob/main/ressource/ConfigVM.png?raw=true)
@@ -23,13 +23,13 @@ Il vous faudra :
 > 2 CPU
 > 30GB d'espace de stockage
 
->>Sa carte réseau doit être réglé sur "Internal Network".
+>>Sa carte réseau doit être réglée sur "Internal Network".
 >>Les Pare-feu doivent être désactivés.
 >>
 >>![img](https://github.com/Hichiraku/Projet_VNC/blob/main/ressource/install2.png?raw=true)
 
 ### 2. Installation du serveur TightVNC sur votre Machine Serveur
-Une fois le téléchargement terminé : lancez l'installer 
+Une fois le téléchargement terminé : lancez l'installer. 
 
 ![img](https://github.com/Hichiraku/Projet_VNC/blob/main/ressource/install2.png?raw=true)
 
@@ -46,7 +46,7 @@ Sélectionnez l'option **"Custom"**
 
 ![img](https://github.com/Hichiraku/Projet_VNC/blob/main/ressource/install5serve.png?raw=true)
 
-Dans un premier temps effectuez un clique **GAUCHE** sur l'icone de **"TightVNC Viewer"**  
+Dans un premier temps effectuez un **clic GAUCHE** sur l'**ICONE** de **"TightVNC Viewer"**  
 Ensuite selectionnez l'option **"Entire feature will be unavailable"**  
 Grâce à cela, nous évitons d'installer le **"Client"** de TighVNC qui nous est inutile sur la machine **Server** pour le projet.
 
@@ -88,7 +88,7 @@ Sélectionnez l'option **"Custom"**
 
 ![img](https://github.com/Hichiraku/Projet_VNC/blob/main/ressource/install5client.png?raw=true)
 
-Dans un premier temps effectuez un clique **GAUCHE** sur l'icone de **"TightVNC Server"**   
+Dans un premier temps effectuez un **clic GAUCHE** sur l'**ICONE** de **"TightVNC Server"**   
 
 Ensuite selectionnez l'option **"Entire feature will be unavailable"**  
 
