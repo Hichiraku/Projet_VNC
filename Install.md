@@ -12,7 +12,7 @@ Rendez-vous sur ce lien : https://www.tightvnc.com/download.php et cliquez sur *
 	* RAM : `8 GB`
 	* CPU : `2` 
 	* Espace disque libre : `30GB d'espace de stockage`
-	* Les pare-feu doivent être désactivé (ou configuré pour les ports concernés)
+	* Les pare-feu doivent être désactivés (ou configurés pour les ports concernés)
 
 > Si la machine est une VM, sa carte réseau doit être réglée sur **"Internal Network"**.
  ![img](https://github.com/Hichiraku/Projet_VNC/blob/main/ressource/ConfigVM.png?raw=true)
@@ -22,7 +22,7 @@ Rendez-vous sur ce lien : https://www.tightvnc.com/download.php et cliquez sur *
 	* RAM : `4 GB`
 	* CPU : `2` 
 	* Espace disque libre : `30GB d'espace de stockage`
-	* Les pare-feu doivent être désactivé (ou configuré pour les ports concernés)
+	* Les pare-feu doivent être désactivés (ou configurés pour les ports concernés)
 
 Si la machine est une VM, sa carte réseau doit être réglée sur **"Internal Network"**.
 
@@ -37,7 +37,7 @@ Cliquez sur le bouton **"Next"**
 
 ![img](https://github.com/Hichiraku/Projet_VNC/blob/main/ressource/install3.png?raw=true)
 
-Acceptez les termes de la License (après l'avoir lu) et clique sur le bouton **"Next"**
+Acceptez les termes de la License (après l'avoir lu) et cliquez sur le bouton **"Next"**
 
 ![img](https://github.com/Hichiraku/Projet_VNC/blob/main/ressource/install4.png?raw=true)
 
@@ -51,7 +51,7 @@ Grâce à cela, nous évitons d'installer le **"Client"** de TighVNC qui nous es
 
 ![img](https://github.com/Hichiraku/Projet_VNC/blob/main/ressource/install6serve.png?raw=true)
 
-Laissez les paramètres par défaut et appuyer sur le bouton **"Next"**
+Laissez les paramètres par défaut et appuyez sur le bouton **"Next"**
 
 ![img](https://github.com/Hichiraku/Projet_VNC/blob/main/ressource/install7serve.png?raw=true)
 
@@ -70,7 +70,7 @@ Félicitations, vous avez terminé l'installation de votre Serveur VNC sur votre
 
 # 3. Installation du client TightVNC sur votre Machine Client
 
-Une fois le téléchargement terminé : lancez l'installer 
+Une fois le téléchargement terminé : lancez l'installeur 
 
 ![img](https://github.com/Hichiraku/Projet_VNC/blob/main/ressource/install2.png?raw=true)
 
@@ -78,7 +78,7 @@ Cliquez sur le bouton **"Next"**
 
 ![img](https://github.com/Hichiraku/Projet_VNC/blob/main/ressource/install3.png?raw=true)
 
-Acceptez les termes de la license (après l'avoir lu) et clique sur le bouton **"Next"**
+Acceptez les termes de la license (après l'avoir lu) et cliquez sur le bouton **"Next"**
 
 ![img](https://github.com/Hichiraku/Projet_VNC/blob/main/ressource/install4.png?raw=true)
 
