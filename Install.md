@@ -59,10 +59,10 @@ Cliquez sur le bouton **"Installer"**
 
 ![img](https://github.com/Hichiraku/Projet_VNC/blob/main/ressource/install8serve.png?raw=true)
 
-Cette étape est optionnelle mais il est fortement recommandé de saisir des mots de passe pour protéger le serveur **TightVNC**.
+* Cette étape est optionnelle mais il est fortement recommandé de saisir des mots de passe pour protéger le serveur **TightVNC**.
 Cela empêchera tout client d'essayer de prendre le contrôle du serveur sans en avoir le mot de passe !
 
-> Si vous ratez cette étape, pas de panique vous pourrez les configurer plus tard
+* Si vous ratez cette étape, pas de panique vous pourrez les configurer plus tard
 
 ![img](https://github.com/Hichiraku/Projet_VNC/blob/main/ressource/install9serve.png?raw=true)
 
