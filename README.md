@@ -9,7 +9,7 @@ Le but principal étant d'apprendre à réaliser d'une documentation efficace po
 
 |  Membres du groupe | Rôles | Tâches |
 | --- | --- | --- |
-| Fabrice.C | Scrum Master (S1) | Product Owner (S2) | En charge de la rédaction du fichier README.md |  
+| Fabrice.C | Scrum Master (S1), Product Owner (S2) | En charge de la rédaction du fichier README.md |  
 | Vincent.DC | Product Owner (S1), Scrum Master (S2) | En charge de la rédaction des fichiers USERGUIDE.md et INSTALL.md |
 | Philippe L. | --- | --- |
 
